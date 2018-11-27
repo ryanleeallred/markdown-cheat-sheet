@@ -1,5 +1,7 @@
 # Markdown Cheat Sheet
 
+## Headers and Paragraph Text:
+
 ```
 # H1 header
 
@@ -30,3 +32,10 @@ This is some paragraph text. Exciting, no?
 ###### H6 header
 
 This is some paragraph text. Exciting, no?
+
+## Headers and Paragraph Text:
+
+```
+
+```
+
